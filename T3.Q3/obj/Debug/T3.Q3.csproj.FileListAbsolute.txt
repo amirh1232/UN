@@ -1,0 +1,8 @@
+D:\New UN\Advanced Programing\Exercise\T3.Q3\bin\Debug\T3.Q3.exe.config
+D:\New UN\Advanced Programing\Exercise\T3.Q3\bin\Debug\T3.Q3.exe
+D:\New UN\Advanced Programing\Exercise\T3.Q3\bin\Debug\T3.Q3.pdb
+D:\New UN\Advanced Programing\Exercise\T3.Q3\obj\Debug\T3.Q3.csproj.AssemblyReference.cache
+D:\New UN\Advanced Programing\Exercise\T3.Q3\obj\Debug\T3.Q3.csproj.SuggestedBindingRedirects.cache
+D:\New UN\Advanced Programing\Exercise\T3.Q3\obj\Debug\T3.Q3.csproj.CoreCompileInputs.cache
+D:\New UN\Advanced Programing\Exercise\T3.Q3\obj\Debug\T3.Q3.exe
+D:\New UN\Advanced Programing\Exercise\T3.Q3\obj\Debug\T3.Q3.pdb

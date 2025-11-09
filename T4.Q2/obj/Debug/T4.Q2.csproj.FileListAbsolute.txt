@@ -1,0 +1,7 @@
+D:\New UN\Advanced Programing\Exercise\T4.Q2\bin\Debug\T4.Q2.exe.config
+D:\New UN\Advanced Programing\Exercise\T4.Q2\bin\Debug\T4.Q2.exe
+D:\New UN\Advanced Programing\Exercise\T4.Q2\bin\Debug\T4.Q2.pdb
+D:\New UN\Advanced Programing\Exercise\T4.Q2\obj\Debug\T4.Q2.csproj.SuggestedBindingRedirects.cache
+D:\New UN\Advanced Programing\Exercise\T4.Q2\obj\Debug\T4.Q2.csproj.CoreCompileInputs.cache
+D:\New UN\Advanced Programing\Exercise\T4.Q2\obj\Debug\T4.Q2.exe
+D:\New UN\Advanced Programing\Exercise\T4.Q2\obj\Debug\T4.Q2.pdb
